@@ -1,14 +1,12 @@
 # Arduino Workshop Ressources
-## Content :
-###  BasicsLabs :
-contains some basics labs it's very helpful for the start .
-###  IntermediateLabs :
-contains some simple projects to merge what they learn from BasicsLabs section .
-###  AdvancedLabs :
-contains some cool advanced projects to motivate them to learn more about arduino ,
+## Content:
+###  BasicsLabs:
+contains some basic labs for the beginning.
+###  IntermediateLabs:
+contains some simple projects to practice what they learn from Basic Labs section.
+###  AdvancedLabs:
+contains some cool advanced projects to motivate them to learn more about arduino, and realize their ideas and make cool things.
 
-and realize their ideas and make cool things
+#### Projects:
 
-for now its contain just "Caro" : its a car controlled by android application using bluetooth .
-
-#### By #thehappybit (OussamaMessabih)
+- "Caro" : its a car controlled by android application using bluetooth.
